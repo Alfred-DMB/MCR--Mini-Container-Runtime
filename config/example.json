@@ -1,0 +1,4 @@
+{
+  "rootfs": "./rootfs",
+  "memory_max": "256M"
+}
